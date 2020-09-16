@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'proxima-nova-alt-bol';
+					src: url('/wordpress/wp-content/uploads/useanyfont/606Proxima-Nova-Alt-Bol.woff2') format('woff2'),
+						url('/wordpress/wp-content/uploads/useanyfont/606Proxima-Nova-Alt-Bol.woff') format('woff');
+					font-display: auto;
+				}
+
+				.proxima-nova-alt-bol{font-family: 'proxima-nova-alt-bol' !important;}
+
+		
